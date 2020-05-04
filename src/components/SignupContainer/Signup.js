@@ -23,7 +23,7 @@ export default class SignUp extends Component {
                 </div>
 
                 <div className="form-group">
-                    <label>Password</label>
+                    <label>Confirm Password</label>
                     <input type="password" className="form-control" placeholder="Confirm Password" />
                 </div>
 
